@@ -97,7 +97,7 @@ Simple Alferd Workflow to perform simple DNS lookups
 ![dig txt alfred screenshot by daniel bahl](https://github.com/danielbahl/alfredv4/blob/master/Dig.alfredworkflow-screenshot-4.png?raw=true)
 
 ## Emoji Search
-*Based on James Sumners (jsumners/alfred-emoji) awesome work! Optimized and edited a bit to fit my emoji needs :)
+*Based on James Sumners (jsumners/alfred-emoji) awesome work!* Optimized and edited a bit to fit my emoji needs :)
 
 ** Hotkey Enabled ** Please note that this Workflow has the CMD+. hotkey enabled. So it's easy to find and insert emojis everything by using the keyboard shortcuts CMD + (dot)
 
