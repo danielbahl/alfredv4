@@ -119,13 +119,13 @@ Fast mounting smb network share. Please also refer to https://support.apple.com/
 
 ![smbmount](https://github.com/danielbahl/alfredv4/blob/master/smb-mounter-screenshot-1.png?raw=true)
 
-## Royal TSX
+## Royal TSX 👾
 
 This awesome workflow works together with Royal TSX enabling searching and connecting to remote servers from Alfred.
 
 ![royal tsx on alfred](https://github.com/danielbahl/alfredv4/blob/master/royal-tsx-screenshot-1.png?raw=true)
 
-### Ad-hoc
+### Ad-hoc 
 
 `royal rdp://1.2.4.5` creates an ad-hoc remote desktop connection to IP 1.2.4.5.
 
@@ -133,42 +133,42 @@ This awesome workflow works together with Royal TSX enabling searching and conne
 
 `royal ftp://mywebsite.com` creates an ad-hoc FTP connection to your website.
 
-### Search
+### Search 🔍
 
 `royal web01` search for web01 in your Royal Bookmarks. Press enter to open Royal TSX and connect.
 
-### Direct Connections
+### Direct Connections 👈
 
 Every morning I connect to a specific server, my workstation. That's why I've made a keyword called "workstation" that connects directly to a specific server in Royal. For this to work you'll need the UUID from Royal for this specific server. Therefore, I have made a Clipboard action that you can connecte the Royal keyword. Then use the Royal keywork to connect to the server, now you have the UUID in your clipboard. Now insert the UUID from your clipboard into the workstation workflow script. Sorry, I know it's a bit hacky. Hope to redo this soon :)
 
-## Philips Hue
+## Philips Hue 💡
 
 I'm using https://github.com/benknight/hue-alfred-workflow for my Hue needs :)
 
-## Fake Data
+## Fake Data 💄
 
 I'm using Fakeum to generate fake data for testing purpose when I'm coding
 
 https://github.com/deanishe/alfred-fakeum
 
-## KAT
+## KAT 😺
 
 I'm using KAT to find torrents for Ubuntu Linux and other Linux Distributions ;)
-Example `kat ubuntu 16` gives you torrents with ubuntu 16, select one to the the magnet-link in your clipboard
+Example `kat ubuntu 16` gives you torrents with ubuntu 16, select one and get the magnet-link in your clipboard. Simple 
 https://github.com/godbout/alfred-kat/
 
-## DownVid
+## DownVid 📹
 
 I'm using DownVid to download videos from twitter, facebook, youtube etc. 
 https://github.com/vitorgalvao/alfred-workflows/tree/master/DownVid
 
-## Resolve URL
+## Resolve URL 🕸
 
 I'm using Resolve URL by Dean Jackson 
 
 https://github.com/deanishe/alfred-resolve-url
 
-## Clipboard History
+## Clipboard History 📋
 
 I know many who uses Alfred, but who are not using some of the smart awesome features that Alfred has built in, eg. Clipboard History. I have set my Clipboard history to CMD + ALT +. (Dot). If you don't use Clipboard History yet, enable now - you'll love it;)
 
