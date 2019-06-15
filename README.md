@@ -151,6 +151,17 @@ I'm using Fakeum to generate fake data for testing purpose when I'm coding
 
 https://github.com/deanishe/alfred-fakeum
 
+## KAT
+
+I'm using KAT to find torrents for Ubuntu Linux and other Linux Distributions ;)
+Example `kat ubuntu 16` gives you torrents with ubuntu 16, select one to the the magnet-link in your clipboard
+https://github.com/godbout/alfred-kat/
+
+## DownVid
+
+I'm using DownVid to download videos from twitter, facebook, youtube etc. 
+https://github.com/vitorgalvao/alfred-workflows/tree/master/DownVid
+
 ## Resolve URL
 
 I'm using Resolve URL by Dean Jackson 
