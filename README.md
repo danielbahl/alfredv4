@@ -161,6 +161,6 @@ https://github.com/deanishe/alfred-resolve-url
 
 I know many who uses Alfred, but who are not using some of the smart awesome features that Alfred has built in, eg. Clipboard History. I have set my Clipboard history to CMD + ALT +. (Dot). If you don't use Clipboard History yet, enable now - you'll love it;)
 
-Clipboard History also supported the iCloud Universal Clipboard sharing from your iPhone, iPad and other Macs. It's awesome! ☁️😍
+Clipboard History also supports the iCloud Universal Clipboard Sharing from your iPhone, iPad and other Macs. It's awesome! ☁️😍
 
 ![Clipboard History](https://github.com/danielbahl/alfredv4/blob/master/tip-clipboard-history.png?raw=true)
