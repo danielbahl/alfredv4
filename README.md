@@ -140,3 +140,21 @@ This awesome workflow works together with Royal TSX enabling searching and conne
 ### Direct Connections
 
 Every morning I connect to a specific server, my workstation. That's why I've made a keyword called "workstation" that connects directly to a specific server in Royal. For this to work you'll need the UUID from Royal for this specific server. Therefore, I have made a Clipboard action that you can connecte the Royal keyword. Then use the Royal keywork to connect to the server, now you have the UUID in your clipboard. Now insert the UUID from your clipboard into the workstation workflow script. Sorry, I know it's a bit hacky. Hope to redo this soon :)
+
+## Philips Hue
+
+I'm using https://github.com/benknight/hue-alfred-workflow for my Hue needs :)
+
+## Fake Data
+
+I'm using Fakeum to generate fake data for testing purpose when I'm coding
+
+https://github.com/deanishe/alfred-fakeum
+
+## Resolve URL
+
+I'm using Resolve URL by Dean Jackson 
+
+https://github.com/deanishe/alfred-resolve-url
+
+
