@@ -157,4 +157,8 @@ I'm using Resolve URL by Dean Jackson
 
 https://github.com/deanishe/alfred-resolve-url
 
+## Clipboard History
 
+I know many who use Alfred, but who are not using some of the smart features that Alfred has built in, eg. Clipboard History. I have set my Clipboard history to CMD + ALT +. (Dot). If you don't use Clipboard History yet, enable now - you'll love it;)
+
+![Clipboard History](https://github.com/danielbahl/alfredv4/blob/master/tip-clipboard-history.png?raw=true)
