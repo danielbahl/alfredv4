@@ -51,4 +51,8 @@ To change DKK to another currency, change the Workflow "Script Filter" from DKK 
 
 **`£1`** converts GBP £1 to DKK, example: £1 = 8.38717 DKK (2019-06-15)
 
+### Convert DKK to EUR/USD/GBP/...
+
+**`DKK 300 EUR`** converts 300 DKK to EUR, example: `DKK 300 EUR` = EUR €40,0708 (2019-06-15)
+**`DKK 10 USD`** converts 10 DKK to USD, example: `DKK 10 USD` = USD $1,50098  (2019-06-15)
 
