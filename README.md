@@ -123,12 +123,15 @@ Fast mounting smb network share. Please also refer to https://support.apple.com/
 
 This awesome workflow works together with Royal TSX enabling searching and connecting to remote servers from Alfred.
 
-![royaltsx](https://github.com/danielbahl/alfredv4/blob/master/royal-tsx-screenshot-1?raw=true)
+![royal tsx on alfred](https://github.com/danielbahl/alfredv4/blob/master/royal-tsx-screenshot-1.png?raw=true)
 
 ### Ad-hoc
 
-`royal rdp://1.2.4.5` created an ad-hoc remote desktop connection to IP 1.2.4.5.
-`royal ssh://awesomeworkstation.com` created an ad-hoc SSH connection to IP 1.2.4.5.
+`royal rdp://1.2.4.5` creates an ad-hoc remote desktop connection to IP 1.2.4.5.
+
+`royal ssh://awesomeworkstation.com` creates an ad-hoc SSH connection to awesomeworkstation.com
+
+`royal ftp://mywebsite.com` creates an ad-hoc FTP connection to your website.
 
 ### Search
 
@@ -136,4 +139,4 @@ This awesome workflow works together with Royal TSX enabling searching and conne
 
 ### Direct Connections
 
-Every morning I connect to a specific server, my workstation. That's why I've made a keyword called "workstation" that connects directly to a specific server in Royal. For this to work you'll need the UUID from Royal for this specific server. Therefore, I have made a Clipboard action that you can connecte the Royal keyword. Then use the Royal keywork to connect to the server, now you have the UUID in your clipboard. Now insert the UUID from your clipboard into the workstation workflow script. 
+Every morning I connect to a specific server, my workstation. That's why I've made a keyword called "workstation" that connects directly to a specific server in Royal. For this to work you'll need the UUID from Royal for this specific server. Therefore, I have made a Clipboard action that you can connecte the Royal keyword. Then use the Royal keywork to connect to the server, now you have the UUID in your clipboard. Now insert the UUID from your clipboard into the workstation workflow script. Sorry, I know it's a bit hacky. Hope to redo this soon :)
