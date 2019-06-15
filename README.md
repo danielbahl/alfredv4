@@ -92,6 +92,6 @@ Simple Alferd Workflow to perform simple DNS lookups
 
 ### Find TXT-records (Text/SRV/SPF etc.) for a specific internet domain
 
-**`dig danielbahl.com ns`** digs TXT for danielbahl.com and resolves it to a hostnames
+**`dig danielbahl.com txt`** digs TXT for danielbahl.com and resolves it to a hostnames
 
 ![dig txt alfred screenshot by daniel bahl](https://github.com/danielbahl/alfredv4/blob/master/Dig.alfredworkflow-screenshot-4.png?raw=true)
