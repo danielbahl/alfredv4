@@ -123,6 +123,8 @@ Fast mounting smb network share. Please also refer to https://support.apple.com/
 
 This awesome workflow works together with Royal TSX enabling searching and connecting to remote servers from Alfred.
 
+![royaltsx](https://github.com/danielbahl/alfredv4/blob/master/royal-tsx-screenshot-1?raw=true)
+
 ### Ad-hoc
 
 `royal rdp://1.2.4.5` created an ad-hoc remote desktop connection to IP 1.2.4.5.
