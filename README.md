@@ -5,6 +5,8 @@ Most workflows are **made by me**. A few of them are based on work from others, 
 ## Add To-Do to Things 3
 *Based on the official culturedcode Quicksilver/Alfred script.*
 
+![Alfred and Things 3 Screenshot](https://github.com/danielbahl/alfredv4/blob/master/Add-To-Do-to-Things-3-screenshot-1.png?raw=true)
+
 ### Getting started
 **`+ Remember the milk`** creates a new TODO in inbox named "Remember the milk".
 
@@ -22,6 +24,8 @@ Most workflows are **made by me**. A few of them are based on work from others, 
 
 ## Bear
 *Based on chrisbro/alfred-bear.*
+
+![Alfred and Bear Screenshot](https://github.com/danielbahl/alfredv4/blob/master/Bear-screenshot-1.png?raw=true)
 
 ### New Note
 
@@ -49,18 +53,18 @@ To change DKK to another currency, change the Workflow "Script Filter" from DKK 
 
 **`€1`** converts EUR €1 to DKK, example: €1 = 7.48674 DKK (2019-06-15)
 
-![USD to DKK](https://github.com/danielbahl/alfredv4/blob/master/Currency-Exchange.alfredworkflow-screenshot-2.png?raw=true)
+![EUR to DKK](https://github.com/danielbahl/alfredv4/blob/master/Currency-Exchange.alfredworkflow-screenshot-2.png?raw=true)
 
 ### Convert £ GBP to DKK
 
 **`£1`** converts GBP £1 to DKK, example: £1 = 8.38717 DKK (2019-06-15)
 
-![USD to DKK](https://github.com/danielbahl/alfredv4/blob/master/Currency-Exchange.alfredworkflow-screenshot-3.png?raw=true)
+![GBP to DKK](https://github.com/danielbahl/alfredv4/blob/master/Currency-Exchange.alfredworkflow-screenshot-3.png?raw=true)
 
 ### Convert DKK to EUR/USD/GBP/...
 
 **`DKK 300 EUR`** converts 300 DKK to EUR, example: `DKK 300 EUR` = EUR €40,0708 (2019-06-15)
 **`DKK 10 USD`** converts 10 DKK to USD, example: `DKK 10 USD` = USD $1,50098  (2019-06-15)
 
-![USD to DKK](https://github.com/danielbahl/alfredv4/blob/master/Currency-Exchange.alfredworkflow-screenshot-4.png?raw=true)
+![DKK to USD](https://github.com/danielbahl/alfredv4/blob/master/Currency-Exchange.alfredworkflow-screenshot-4.png?raw=true)
 
