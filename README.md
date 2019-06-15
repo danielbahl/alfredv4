@@ -43,6 +43,8 @@ To change DKK to another currency, change the Workflow "Script Filter" from DKK 
 
 **`$100`** converts USD $100 to DKK, example: $100 = 666.23 DKK (2019-06-15)
 
+![USD to DKK](https://github.com/danielbahl/alfredv4/blob/master/Currency-Exchange.alfredworkflow-screenshot-1.png?raw=true)
+
 ### Convert € USD to DKK
 
 **`€1`** converts EUR €1 to DKK, example: €1 = 7.48674 DKK (2019-06-15)
