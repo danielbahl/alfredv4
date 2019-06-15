@@ -115,7 +115,8 @@ Press `cmd+.` and type `100` to find emojis matching the search-term "100". Pres
 
 Fast mounting smb network share. Please also refer to https://support.apple.com/en-bw/HT208209 to speedier SMBs on your Mac. This script mounts a network-share to your desktop.
 
-#### Please change the IP, Sharename, Username and Password inside the Script to make this work. Also change notifications and keywork to make it fit your wishes :)
+#### Please change the IP, Sharename, Username and Password inside the Script to make this work. Also change notification and keyword to  fit your needs :) 🦄
 
 ![smbmount](https://github.com/danielbahl/alfredv4/blob/master/smb-mounter-screenshot-1.png?raw=true)
+
 
