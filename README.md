@@ -119,4 +119,19 @@ Fast mounting smb network share. Please also refer to https://support.apple.com/
 
 ![smbmount](https://github.com/danielbahl/alfredv4/blob/master/smb-mounter-screenshot-1.png?raw=true)
 
+## Royal TSX
 
+This awesome workflow works together with Royal TSX enabling searching and connecting to remote servers from Alfred.
+
+### Ad-hoc
+
+`royal rdp://1.2.4.5` created an ad-hoc remote desktop connection to IP 1.2.4.5.
+`royal ssh://awesomeworkstation.com` created an ad-hoc SSH connection to IP 1.2.4.5.
+
+### Search
+
+`royal web01` search for web01 in your Royal Bookmarks. Press enter to open Royal TSX and connect.
+
+### Direct Connections
+
+Every morning I connect to a specific server, my workstation. That's why I've made a keyword called "workstation" that connects directly to a specific server in Royal. For this to work you'll need the UUID from Royal for this specific server. Therefore, I have made a Clipboard action that you can connecte the Royal keyword. Then use the Royal keywork to connect to the server, now you have the UUID in your clipboard. Now insert the UUID from your clipboard into the workstation workflow script. 
