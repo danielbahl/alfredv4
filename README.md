@@ -34,3 +34,21 @@ Most workflows are **made by me**. A few of them are based on work from others, 
 ### Search by Tag
 
 **Example:** `bst linux` search for notes tagged with #Linux
+
+## Currency Exchange
+
+To change DKK to another currency, change the Workflow "Script Filter" from DKK to another currency.
+
+### Convert $ USD to DKK
+
+**`$100`** converts USD $100 to DKK, example: $100 = 666.23 DKK (2019-06-15)
+
+### Convert € USD to DKK
+
+**`€1`** converts EUR €1 to DKK, example: €1 = 7.48674 DKK (2019-06-15)
+
+### Convert £ GBP to DKK
+
+**`£1`** converts GBP £1 to DKK, example: £1 = 8.38717 DKK (2019-06-15)
+
+
