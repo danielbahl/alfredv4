@@ -113,7 +113,7 @@ Press `cmd+.` and type `100` to find emojis matching the search-term "100". Pres
 
 ## SMB Mounter + Unmounter Server
 
-Fast mounting smb network share. Please also refer to https://support.apple.com/en-bw/HT208209 to speedier SMBs on your Mac. This script mounts a network-share to your desktop.
+Fast mounting smb network share. Please also refer to https://support.apple.com/en-bw/HT208209 for speedier SMBs on your Mac. This script mounts/unmounts a network-share to your desktop.
 
 #### Please change the IP, Sharename, Username and Password inside the Script to make this work. Also change notification and keyword to  fit your needs :) 🦄
 
