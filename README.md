@@ -68,3 +68,30 @@ To change DKK to another currency, change the Workflow "Script Filter" from DKK 
 
 ![DKK to USD](https://github.com/danielbahl/alfredv4/blob/master/Currency-Exchange.alfredworkflow-screenshot-4.png?raw=true)
 
+## Dig
+Simple Alferd Workflow to perform simple DNS lookups
+
+### Find A/CNAME record of root domain
+
+**`dig danielbahl.com`** digs danielbahl.com and resolves it to a hostname or IP.
+
+![dig alfred screenshot by daniel bahl](https://github.com/danielbahl/alfredv4/blob/master/Dig.alfredworkflow-screenshot-1.png?raw=true)
+
+### Find MX-records (Mail eXchanger) for a specific internet domain
+
+**`dig danielbahl.com mx`** digs mx for danielbahl.com and resolves it to a hostnames
+
+![dig mx alfred screenshot by daniel bahl](https://github.com/danielbahl/alfredv4/blob/master/Dig.alfredworkflow-screenshot-2.png?raw=true)
+
+### Find NS-records (Name Servers) for a specific internet domain
+
+**`dig danielbahl.com ns`** digs NS for danielbahl.com and resolves it to a hostnames
+
+![dig ns alfred screenshot by daniel bahl](https://github.com/danielbahl/alfredv4/blob/master/Dig.alfredworkflow-screenshot-3.png?raw=true)
+
+
+### Find TXT-records (Text/SRV/SPF etc.) for a specific internet domain
+
+**`dig danielbahl.com ns`** digs TXT for danielbahl.com and resolves it to a hostnames
+
+![dig txt alfred screenshot by daniel bahl](https://github.com/danielbahl/alfredv4/blob/master/Dig.alfredworkflow-screenshot-4.png?raw=true)
